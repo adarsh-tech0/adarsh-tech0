@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**adarsh-tech0/adarsh-tech0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics & Communication Engineering student at NSS College of Engineering, passionate about building real-world embedded systems and hardware solutions.
 
-Here are some ideas to get you started:
+🎓 B.Tech in Electronics & Communication Engineering (NSS College of Engineering)
+🛠️ I design, build, and debug — from PCB layout to firmware
+📡 Interested in embedded systems, IoT, and test instrumentation
+📍 Based in Malappuram, Kerala
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Microcontrollers
+ESP32 Arduino ATmega328P Raspberry Pi Pico
+Languages
+Embedded C Python Verilog HDL
+Tools & Software
+EasyEDA Altium Designer KiCad Proteus 8 Professional
+Core Skills
+Circuit Design PCB Soldering Hardware Prototyping Fault Diagnosis
